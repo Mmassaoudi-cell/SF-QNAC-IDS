@@ -1,0 +1,13 @@
+=== UNSW-NB15 multiclass ===
+classes: 10/10 (dropped: [])
+acc=0.8311 bal_acc=0.5202 macro_f1=0.5425
+
+=== CIC-IDS-2017 multiclass ===
+classes: 12/15 (dropped: [])
+acc=0.9969 bal_acc=0.8217 macro_f1=0.8267
+
+=== CICIoT23 multiclass ===
+classes: 27/34 (dropped: ['Backdoor_Malware', 'BrowserHijacking', 'CommandInjection', 'Recon-PingSweep', 'SqlInjection', 'XSS'])
+acc=0.9867 bal_acc=0.7796 macro_f1=0.7857
+
+Saved C:\Users\MMASSAOUDI\Desktop\research work\Alienware\Innovative paper 12\SF-QNAC-IDS\results\multiclass_results.json

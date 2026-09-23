@@ -1,0 +1,56 @@
+[UNSW-NB15/A/seed=42] trained in 11.6s, ideal action=6, best_val_f1=0.9192
+    ideal          mit=None     KL=0.0000 action_changed=False downstream_f1=0.8939
+    finite_shot    mit=None     KL=0.0000 action_changed=False downstream_f1=0.8939
+    depolarizing   mit=None     KL=0.0058 action_changed=True downstream_f1=0.9098
+    readout        mit=None     KL=0.0001 action_changed=False downstream_f1=0.8939
+    readout        mit=readout  KL=-0.0000 action_changed=False downstream_f1=0.8939
+    combined       mit=None     KL=0.0066 action_changed=True downstream_f1=0.9098
+    combined       mit=readout  KL=0.0058 action_changed=True downstream_f1=0.9098
+    combined       mit=zne      KL=0.0025 action_changed=False downstream_f1=0.8939
+[UNSW-NB15/A/seed=43] trained in 11.2s, ideal action=2, best_val_f1=0.8882
+    ideal          mit=None     KL=0.0000 action_changed=False downstream_f1=0.9006
+    finite_shot    mit=None     KL=0.0002 action_changed=False downstream_f1=0.9006
+    depolarizing   mit=None     KL=0.0031 action_changed=True downstream_f1=0.8999
+    readout        mit=None     KL=0.0001 action_changed=False downstream_f1=0.9006
+    readout        mit=readout  KL=0.0000 action_changed=False downstream_f1=0.9006
+    combined       mit=None     KL=0.0043 action_changed=True downstream_f1=0.8999
+    combined       mit=readout  KL=0.0031 action_changed=True downstream_f1=0.8999
+    combined       mit=zne      KL=0.0007 action_changed=True downstream_f1=0.8999
+[CIC-IDS-2017/A/seed=42] trained in 10.5s, ideal action=6, best_val_f1=0.9894
+    ideal          mit=None     KL=0.0000 action_changed=False downstream_f1=0.9956
+    finite_shot    mit=None     KL=0.0001 action_changed=False downstream_f1=0.9956
+    depolarizing   mit=None     KL=0.0032 action_changed=True downstream_f1=0.9788
+    readout        mit=None     KL=0.0000 action_changed=False downstream_f1=0.9956
+    readout        mit=readout  KL=0.0000 action_changed=False downstream_f1=0.9956
+    combined       mit=None     KL=0.0037 action_changed=True downstream_f1=0.9788
+    combined       mit=readout  KL=0.0032 action_changed=True downstream_f1=0.9788
+    combined       mit=zne      KL=0.0014 action_changed=False downstream_f1=0.9956
+[CIC-IDS-2017/A/seed=43] trained in 10.1s, ideal action=12, best_val_f1=0.9894
+    ideal          mit=None     KL=0.0000 action_changed=False downstream_f1=0.9910
+    finite_shot    mit=None     KL=0.0001 action_changed=False downstream_f1=0.9910
+    depolarizing   mit=None     KL=0.0035 action_changed=False downstream_f1=0.9910
+    readout        mit=None     KL=0.0001 action_changed=False downstream_f1=0.9910
+    readout        mit=readout  KL=0.0000 action_changed=False downstream_f1=0.9910
+    combined       mit=None     KL=0.0041 action_changed=False downstream_f1=0.9910
+    combined       mit=readout  KL=0.0035 action_changed=False downstream_f1=0.9910
+    combined       mit=zne      KL=0.0020 action_changed=False downstream_f1=0.9910
+[CICIoT23/A/seed=42] trained in 6.4s, ideal action=12, best_val_f1=0.8962
+    ideal          mit=None     KL=0.0000 action_changed=False downstream_f1=0.8906
+    finite_shot    mit=None     KL=0.0000 action_changed=False downstream_f1=0.8906
+    depolarizing   mit=None     KL=0.0033 action_changed=False downstream_f1=0.8906
+    readout        mit=None     KL=0.0001 action_changed=False downstream_f1=0.8906
+    readout        mit=readout  KL=0.0000 action_changed=False downstream_f1=0.8906
+    combined       mit=None     KL=0.0039 action_changed=False downstream_f1=0.8906
+    combined       mit=readout  KL=0.0033 action_changed=False downstream_f1=0.8906
+    combined       mit=zne      KL=0.0020 action_changed=False downstream_f1=0.8906
+[CICIoT23/A/seed=43] trained in 8.1s, ideal action=12, best_val_f1=0.9495
+    ideal          mit=None     KL=0.0000 action_changed=False downstream_f1=0.9288
+    finite_shot    mit=None     KL=0.0001 action_changed=False downstream_f1=0.9288
+    depolarizing   mit=None     KL=0.0035 action_changed=False downstream_f1=0.9288
+    readout        mit=None     KL=0.0001 action_changed=False downstream_f1=0.9288
+    readout        mit=readout  KL=0.0000 action_changed=False downstream_f1=0.9288
+    combined       mit=None     KL=0.0046 action_changed=False downstream_f1=0.9288
+    combined       mit=readout  KL=0.0035 action_changed=False downstream_f1=0.9288
+    combined       mit=zne      KL=0.0009 action_changed=False downstream_f1=0.9288
+
+Saved C:\Users\MMASSAOUDI\Desktop\research work\Alienware\Innovative paper 12\SF-QNAC-IDS\results\noise_robustness.csv

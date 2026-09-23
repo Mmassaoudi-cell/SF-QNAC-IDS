@@ -1,0 +1,15 @@
+# Paper manuscript, figures, and tables are intentionally excluded from this
+# repository, which hosts only the SF-QNAC-IDS method source code for
+# reproducibility.
+manuscript/
+figures/
+tables/
+Innotive_paper_12__SF_QNAC_IDS__Shot_Frugal_Quantum_Natural_Actor_Critic_Optimization_for_Efficient_Intrusion_Detection/
+SF-QNAC-IDS_manuscript_overleaf.zip
+
+# Large regenerable data cache (built by data_pipeline.py from local datasets)
+cache/
+
+# Python
+__pycache__/
+*.pyc

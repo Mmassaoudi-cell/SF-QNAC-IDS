@@ -1,0 +1,23 @@
+{
+  "dataset": "CIC-IDS-2017",
+  "protocol": "B",
+  "seed": 46,
+  "n_train": 15291,
+  "n_val": 3278,
+  "n_test": 3882,
+  "n_features": 78,
+  "positive_rate_train": 0.07226473088745014,
+  "positive_rate_test": 0.37248840803709427,
+  "audit": {
+    "dataset": "cic2017_protocol_b_day_disjoint",
+    "n_train": 15291,
+    "n_test": 3882,
+    "exact_duplicates_within_train": 0,
+    "exact_duplicates_within_test": 0,
+    "cross_split_exact_duplicates_train_vs_test": 13,
+    "cross_split_duplicate_rate_test": 0.0033487892838742917,
+    "exact_duplicates_dropped_before_split_train_side": 438,
+    "exact_duplicates_dropped_before_split_test_side": 18
+  },
+  "protocol_b_kind": "day/capture-disjoint (train=Mon-Thu, test=Fri)"
+}

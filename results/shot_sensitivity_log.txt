@@ -1,0 +1,34 @@
+[UNSW-NB15/A/seed=42] shots=   64 F1=0.8957 KL=0.0023 agree=True time=15.5s
+[UNSW-NB15/A/seed=42] shots=  128 F1=0.8963 KL=0.0006 agree=True time=10.2s
+[UNSW-NB15/A/seed=42] shots=  256 F1=0.9072 KL=0.0002 agree=True time=10.2s
+[UNSW-NB15/A/seed=42] shots=  512 F1=0.9121 KL=0.0002 agree=True time=9.0s
+[UNSW-NB15/A/seed=42] shots= 1024 F1=0.8940 KL=0.0003 agree=True time=10.6s
+[UNSW-NB15/A/seed=42] shots= 2048 F1=0.9075 KL=0.0002 agree=True time=10.0s
+[UNSW-NB15/A/seed=42] shots= 4096 F1=0.9075 KL=0.0001 agree=True time=9.3s
+[UNSW-NB15/A/seed=42] shots= 8192 F1=0.9101 KL=0.0000 agree=True time=11.0s
+[UNSW-NB15/A/seed=43] shots=   64 F1=0.8973 KL=0.0049 agree=True time=8.6s
+[UNSW-NB15/A/seed=43] shots=  128 F1=0.9057 KL=0.0019 agree=True time=7.9s
+[UNSW-NB15/A/seed=43] shots=  256 F1=0.8809 KL=0.0017 agree=False time=7.5s
+[UNSW-NB15/A/seed=43] shots=  512 F1=0.9049 KL=0.0000 agree=True time=8.7s
+[UNSW-NB15/A/seed=43] shots= 1024 F1=0.9049 KL=0.0000 agree=True time=8.5s
+[UNSW-NB15/A/seed=43] shots= 2048 F1=0.9049 KL=0.0000 agree=True time=8.4s
+[UNSW-NB15/A/seed=43] shots= 4096 F1=0.9049 KL=0.0000 agree=True time=8.3s
+[UNSW-NB15/A/seed=43] shots= 8192 F1=0.9049 KL=0.0000 agree=True time=8.5s
+[CICIoT23/A/seed=42] shots=   64 F1=0.9470 KL=0.0025 agree=True time=5.3s
+[CICIoT23/A/seed=42] shots=  128 F1=0.9509 KL=0.0014 agree=True time=5.6s
+[CICIoT23/A/seed=42] shots=  256 F1=0.9368 KL=0.0006 agree=True time=5.6s
+[CICIoT23/A/seed=42] shots=  512 F1=0.9477 KL=0.0004 agree=True time=5.5s
+[CICIoT23/A/seed=42] shots= 1024 F1=0.9477 KL=0.0003 agree=True time=5.3s
+[CICIoT23/A/seed=42] shots= 2048 F1=0.9477 KL=0.0002 agree=True time=5.2s
+[CICIoT23/A/seed=42] shots= 4096 F1=0.9477 KL=0.0001 agree=True time=5.5s
+[CICIoT23/A/seed=42] shots= 8192 F1=0.9477 KL=0.0000 agree=True time=5.4s
+[CICIoT23/A/seed=43] shots=   64 F1=0.9030 KL=0.0052 agree=True time=6.1s
+[CICIoT23/A/seed=43] shots=  128 F1=0.9105 KL=0.0007 agree=True time=6.7s
+[CICIoT23/A/seed=43] shots=  256 F1=0.9105 KL=0.0005 agree=True time=7.3s
+[CICIoT23/A/seed=43] shots=  512 F1=0.9105 KL=0.0000 agree=True time=6.9s
+[CICIoT23/A/seed=43] shots= 1024 F1=0.9105 KL=0.0000 agree=True time=7.1s
+[CICIoT23/A/seed=43] shots= 2048 F1=0.9105 KL=0.0000 agree=True time=6.8s
+[CICIoT23/A/seed=43] shots= 4096 F1=0.9105 KL=0.0000 agree=True time=8.0s
+[CICIoT23/A/seed=43] shots= 8192 F1=0.9105 KL=0.0000 agree=True time=7.2s
+
+Saved C:\Users\MMASSAOUDI\Desktop\research work\Alienware\Innovative paper 12\SF-QNAC-IDS\results\shot_sensitivity.csv

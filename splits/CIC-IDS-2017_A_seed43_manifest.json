@@ -1,0 +1,22 @@
+{
+  "dataset": "CIC-IDS-2017",
+  "protocol": "A",
+  "seed": 43,
+  "n_train": 13999,
+  "n_val": 3001,
+  "n_test": 3000,
+  "n_features": 78,
+  "positive_rate_train": 0.18415601114365313,
+  "positive_rate_test": 0.184,
+  "audit": {
+    "dataset": "cic2017_protocol_a",
+    "n_train": 13999,
+    "n_test": 3000,
+    "exact_duplicates_within_train": 0,
+    "exact_duplicates_within_test": 0,
+    "cross_split_exact_duplicates_train_vs_test": 0,
+    "cross_split_duplicate_rate_test": 0.0,
+    "exact_duplicates_dropped_before_split_full_dataset": 419
+  },
+  "protocol_b_kind": null
+}

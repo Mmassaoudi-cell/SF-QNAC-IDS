@@ -1,0 +1,21 @@
+{
+  "dataset": "CICIoT23",
+  "protocol": "B",
+  "seed": 45,
+  "n_train": 14000,
+  "n_val": 3000,
+  "n_test": 3000,
+  "n_features": 46,
+  "positive_rate_train": 0.976,
+  "positive_rate_test": 0.9766666666666667,
+  "audit": {
+    "dataset": "ciciot23_protocol_b_official_split",
+    "n_train": 14000,
+    "n_test": 3000,
+    "exact_duplicates_within_train": 0,
+    "exact_duplicates_within_test": 0,
+    "cross_split_exact_duplicates_train_vs_test": 0,
+    "cross_split_duplicate_rate_test": 0.0
+  },
+  "protocol_b_kind": "official author-provided train/validation/test files"
+}

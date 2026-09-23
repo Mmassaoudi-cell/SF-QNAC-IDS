@@ -1,0 +1,371 @@
+Resuming: 398 runs already recorded.
+
+[UNSW-NB15/A/seed=42] split loaded in 1.8s (n_train=13999, n_test=3000)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[UNSW-NB15/A/seed=43] split loaded in 1.7s (n_train=13999, n_test=3000)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[UNSW-NB15/A/seed=44] split loaded in 1.6s (n_train=13999, n_test=3000)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[UNSW-NB15/A/seed=45] split loaded in 1.6s (n_train=13999, n_test=3000)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[UNSW-NB15/A/seed=46] split loaded in 1.5s (n_train=13999, n_test=3000)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[UNSW-NB15/A/seed=47] split loaded in 1.6s (n_train=13999, n_test=3000)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[UNSW-NB15/A/seed=48] split loaded in 1.7s (n_train=13999, n_test=3000)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[CIC-IDS-2017/A/seed=42] split loaded in 0.5s (n_train=13999, n_test=3000)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[CIC-IDS-2017/A/seed=43] split loaded in 0.3s (n_train=13999, n_test=3000)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[CIC-IDS-2017/A/seed=44] split loaded in 0.3s (n_train=13999, n_test=3000)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[CIC-IDS-2017/A/seed=45] split loaded in 0.3s (n_train=13999, n_test=3000)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[CIC-IDS-2017/A/seed=46] split loaded in 0.3s (n_train=13999, n_test=3000)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[CIC-IDS-2017/A/seed=47] split loaded in 0.3s (n_train=13999, n_test=3000)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[CIC-IDS-2017/A/seed=48] split loaded in 0.3s (n_train=13999, n_test=3000)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[CIC-IDS-2017/B/seed=42] split loaded in 0.3s (n_train=15270, n_test=3888)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[CIC-IDS-2017/B/seed=43] split loaded in 0.3s (n_train=15274, n_test=3888)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[CIC-IDS-2017/B/seed=44] split loaded in 0.3s (n_train=15290, n_test=3890)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[CIC-IDS-2017/B/seed=45] split loaded in 0.3s (n_train=15272, n_test=3888)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[CIC-IDS-2017/B/seed=46] split loaded in 0.3s (n_train=15291, n_test=3882)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[CIC-IDS-2017/B/seed=47] split loaded in 0.3s (n_train=15275, n_test=3886)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[CIC-IDS-2017/B/seed=48] split loaded in 0.3s (n_train=15261, n_test=3890)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[CICIoT23/A/seed=42] split loaded in 0.3s (n_train=13998, n_test=3000)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[CICIoT23/A/seed=43] split loaded in 0.2s (n_train=13998, n_test=3000)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[CICIoT23/A/seed=44] split loaded in 0.2s (n_train=13995, n_test=3000)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[CICIoT23/A/seed=45] split loaded in 0.2s (n_train=13998, n_test=3000)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[CICIoT23/A/seed=46] split loaded in 0.2s (n_train=13998, n_test=3000)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic
+  [skip, already done] 5_vqc_actor_critic_ordinary_grad
+  [skip, already done] 6_qnac_fixed_shots
+  [skip, already done] 7_sf_qnac_ids
+  [skip, already done] bench_logreg
+  [skip, already done] bench_random_forest
+  [skip, already done] bench_lightgbm
+  [skip, already done] bench_optuna_xgboost
+  [skip, already done] bench_quantum_kernel_classifier
+
+[CICIoT23/A/seed=47] split loaded in 0.2s (n_train=13997, n_test=3000)
+  [skip, already done] 1_xgboost_default
+  [skip, already done] 2_sho_xgboost
+  [skip, already done] 3_qrl_sho_xgboost_reproduction
+  [skip, already done] 4_classical_actor_critic

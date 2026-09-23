@@ -1,0 +1,44 @@
+C:\Users\MMASSAOUDI\Desktop\research work\Alienware\Innovative paper 12\SF-QNAC-IDS\code\make_tables.py:74: SyntaxWarning: invalid escape sequence '\p'
+  "Macro-F1 (mean$\pm$std %)": fmt(sub["test_f1_macro"].mean(), sub["test_f1_macro"].std()),
+C:\Users\MMASSAOUDI\Desktop\research work\Alienware\Innovative paper 12\SF-QNAC-IDS\code\make_tables.py:75: SyntaxWarning: invalid escape sequence '\p'
+  "PR-AUC (mean$\pm$std %)": fmt(sub["test_pr_auc"].mean(), sub["test_pr_auc"].std()),
+Ablation ladder:
+                      Variant  Qubits  Depth  Shots (mean) Macro-F1 (mean$\pm$std %) PR-AUC (mean$\pm$std %)    FPR (mean %)  Episodes-to-conv (mean)  Quantum evals (mean)  Full trainings (mean)  Train time s (mean)
+                     XGBoost     0.0    NaN  0.000000e+00           86.21$\pm$17.40         94.45$\pm$10.04   5.91$\pm$5.56                 0.000000                   NaN                    1.0             0.452286
+                 SHO-XGBoost     0.0    NaN  0.000000e+00           84.81$\pm$14.68          94.28$\pm$9.83 10.62$\pm$10.23                 0.000000                   NaN                   61.0             4.712571
+    QRL-SHO-XGBoost (repro.)     8.0    NaN  2.141647e+09           79.09$\pm$10.11         88.72$\pm$11.91 19.53$\pm$16.79                26.514286                   NaN                  142.0            55.230571
+      Classical actor-critic     0.0    0.0  0.000000e+00           86.57$\pm$14.58         93.90$\pm$10.68   7.16$\pm$6.62                41.514286                   0.0                   61.0             5.304286
+VQC actor-critic (ord. grad)     4.0   11.0  1.966080e+06           86.24$\pm$14.90          94.28$\pm$9.85   7.12$\pm$6.70                49.057143                3900.0                   61.0             7.027429
+          QNAC (fixed shots)     4.0   11.0  1.966080e+06           87.46$\pm$12.73         93.97$\pm$10.75   7.30$\pm$6.63                43.571429                3900.0                   61.0             7.707143
+          SF-QNAC-IDS (full)     4.0   11.0  1.536000e+05           87.30$\pm$13.25         93.69$\pm$11.21   7.19$\pm$6.47                43.857143                3900.0                   61.0             7.542000
+
+Main results:
+                       Method  CIC-IDS-2017-A  CIC-IDS-2017-B  CICIoT23-A  CICIoT23-B  UNSW-NB15-A  Avg FPR (%)  Train Time (s)  Quantum Shots
+                     XGBoost       99.537398       52.705696   94.648698   93.467091    90.670865     5.905926        0.452286   0.000000e+00
+                 SHO-XGBoost       98.842837       58.112914   89.198060   88.663058    89.233886    10.623445        4.712571   0.000000e+00
+    QRL-SHO-XGBoost (repro.)       86.255180       60.806064   80.498874   82.819483    85.061448    19.533125       55.230571   2.141647e+09
+      Classical actor-critic       99.315426       59.945349   92.444045   91.578236    89.576387     7.159099        5.304286   0.000000e+00
+VQC actor-critic (ord. grad)       98.880802       58.616927   92.876449   90.966665    89.861809     7.116830        7.027429   1.966080e+06
+          QNAC (fixed shots)       99.408969       63.700399   92.100339   92.211235    89.892111     7.304951        7.707143   1.966080e+06
+          SF-QNAC-IDS (full)       99.153545       62.679621   92.248107   92.226744    90.181354     7.187839        7.542000   1.536000e+05
+         Logistic Regression       74.060923       69.815575   78.154433   79.226349    70.297687    19.093074        2.781143            NaN
+               Random Forest       99.298293       65.740024   94.444291   93.777311    90.597046     7.097298        0.877429            NaN
+                    LightGBM       99.654350       58.274729   94.025758   93.160028    90.621127     5.123736        0.487714            NaN
+  Optuna-XGBoost (25 trials)       99.522261       56.471133   94.241732   93.205808    90.812138     5.532812       10.447143            NaN
+   Quantum-kernel classifier       67.382530       62.102993   84.881413   76.042283    71.048766     8.518783        2.781143   0.000000e+00
+
+Quantum efficiency:
+                       Method  Qubits 1Q/2Q gates  Shots (mean)  Circuit calls (mean)  Episodes (mean)  Runtime s (mean)  Macro-F1 (mean %)
+    QRL-SHO-XGBoost (repro.)     8.0        32/8  2.141647e+09                   NaN        26.514286         55.230571          79.088210
+VQC actor-critic (ord. grad)     4.0        24/6  1.966080e+06                3900.0        49.057143          7.027429          86.240530
+          QNAC (fixed shots)     4.0        24/6  1.966080e+06                3900.0        43.571429          7.707143          87.462610
+          SF-QNAC-IDS (full)     4.0        24/6  1.536000e+05                3900.0        43.857143          7.542000          87.297874
+   Quantum-kernel classifier     3.0        15/2  0.000000e+00                   NaN              NaN          2.781143          72.291597
+
+Stats summary:
+ Dataset-Protocol  F1 QRL-SHO-XGB (repro.)  F1 SF-QNAC-IDS  Mean diff.  95% CI lo  95% CI hi  paired-t p  Holm-adj. p  Wilcoxon p
+  CIC-IDS-2017-A                 0.862552        0.991535    0.128984   0.105195   0.149257    0.000040     0.000161    0.015625
+  CIC-IDS-2017-B                 0.608061        0.626796    0.018736  -0.053078   0.082615    0.639178     0.639178    0.296875
+      CICIoT23-A                 0.804989        0.922481    0.117492   0.082055   0.151742    0.000951     0.001901    0.015625
+      CICIoT23-B                 0.828195        0.922267    0.094073   0.072091   0.115448    0.000235     0.000705    0.015625
+     UNSW-NB15-A                 0.850614        0.901814    0.051199   0.044613   0.057302    0.000008     0.000040    0.015625

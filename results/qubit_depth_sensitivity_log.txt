@@ -1,0 +1,34 @@
+[UNSW-NB15/A] q=2 L=1 depth=4 params=8 F1=0.9058 time=8.9s
+[UNSW-NB15/A] q=2 L=2 depth=8 params=16 F1=0.9064 time=7.6s
+[UNSW-NB15/A] q=2 L=3 depth=12 params=24 F1=0.9047 time=10.2s
+[UNSW-NB15/A] q=2 L=4 depth=16 params=32 F1=0.8979 time=8.5s
+[UNSW-NB15/A] q=4 L=1 depth=6 params=16 F1=0.8897 time=5.8s
+[UNSW-NB15/A] q=4 L=2 depth=11 params=32 F1=0.9114 time=12.3s
+[UNSW-NB15/A] q=4 L=3 depth=16 params=48 F1=0.8932 time=10.5s
+[UNSW-NB15/A] q=4 L=4 depth=21 params=64 F1=0.9095 time=12.6s
+[UNSW-NB15/A] q=6 L=1 depth=8 params=24 F1=0.9155 time=8.1s
+[UNSW-NB15/A] q=6 L=2 depth=13 params=48 F1=0.9108 time=9.3s
+[UNSW-NB15/A] q=6 L=3 depth=18 params=72 F1=0.9088 time=17.4s
+[UNSW-NB15/A] q=6 L=4 depth=23 params=96 F1=0.9056 time=18.8s
+[UNSW-NB15/A] q=8 L=1 depth=10 params=32 F1=0.9064 time=9.1s
+[UNSW-NB15/A] q=8 L=2 depth=15 params=64 F1=0.9056 time=13.1s
+[UNSW-NB15/A] q=8 L=3 depth=20 params=96 F1=0.9091 time=25.7s
+[UNSW-NB15/A] q=8 L=4 depth=25 params=128 F1=0.9078 time=32.9s
+[CICIoT23/A] q=2 L=1 depth=4 params=8 F1=0.9377 time=5.7s
+[CICIoT23/A] q=2 L=2 depth=8 params=16 F1=0.9682 time=5.4s
+[CICIoT23/A] q=2 L=3 depth=12 params=24 F1=0.9467 time=6.1s
+[CICIoT23/A] q=2 L=4 depth=16 params=32 F1=0.9484 time=7.3s
+[CICIoT23/A] q=4 L=1 depth=6 params=16 F1=0.9013 time=5.4s
+[CICIoT23/A] q=4 L=2 depth=11 params=32 F1=0.9298 time=6.6s
+[CICIoT23/A] q=4 L=3 depth=16 params=48 F1=0.9558 time=8.9s
+[CICIoT23/A] q=4 L=4 depth=21 params=64 F1=0.9477 time=11.5s
+[CICIoT23/A] q=6 L=1 depth=8 params=24 F1=0.8879 time=6.4s
+[CICIoT23/A] q=6 L=2 depth=13 params=48 F1=0.9368 time=9.8s
+[CICIoT23/A] q=6 L=3 depth=18 params=72 F1=0.9055 time=13.6s
+[CICIoT23/A] q=6 L=4 depth=23 params=96 F1=0.9558 time=17.8s
+[CICIoT23/A] q=8 L=1 depth=10 params=32 F1=0.9463 time=6.8s
+[CICIoT23/A] q=8 L=2 depth=15 params=64 F1=0.9686 time=11.1s
+[CICIoT23/A] q=8 L=3 depth=20 params=96 F1=0.9238 time=19.6s
+[CICIoT23/A] q=8 L=4 depth=25 params=128 F1=0.9509 time=32.9s
+
+Saved C:\Users\MMASSAOUDI\Desktop\research work\Alienware\Innovative paper 12\SF-QNAC-IDS\results\qubit_depth_sensitivity.csv
